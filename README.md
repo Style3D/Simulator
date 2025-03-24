@@ -4,7 +4,7 @@ Style3DSimulator is a physics engine that support soft and rigid body simulation
 
 ## Documentation
 
-See doc/html/index.html
+See docs folder.
 
 ## Installation
 
